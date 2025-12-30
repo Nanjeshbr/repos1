@@ -1,0 +1,2 @@
+File 3 c.txt content
+file 3
