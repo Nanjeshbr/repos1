@@ -1,2 +1,15 @@
+<<<<<<< HEAD
+Master content
+=======
 Feature b1 content
+<<<<<<< HEAD
 Feature new content 2
+=======
+<<<<<<< HEAD
+>>>>>>> b1
+Master 2nd content 
+=======
+Feature new content 2
+>>>>>>> b1
+>>>>>>> master
+feature content three
