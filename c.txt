@@ -1,2 +1,1 @@
-File 3 c.txt content
-file 3
+editing file c.txt in remote /git hub
