@@ -1,3 +1,1 @@
-content1
-file a.txt new content
-File new 2nd line
+feature content
