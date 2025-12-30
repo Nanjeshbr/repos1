@@ -1,1 +1,2 @@
 Feature b1 content
+Feature new content 2
