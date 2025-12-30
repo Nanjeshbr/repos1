@@ -3,3 +3,4 @@ Master content
 =======
 Feature b1 content
 >>>>>>> b1
+Master 2nd content 
